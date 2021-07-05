@@ -3,6 +3,5 @@ public class hello {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
-        System.out.println("hi");
-    }
+        System.out.println("vscodePush");    }
 }
