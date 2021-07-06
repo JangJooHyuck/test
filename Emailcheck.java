@@ -17,4 +17,4 @@ public class Emailcheck {
         }
 
     }
-} // cmd - chcp 949 - java Emailcheck 하면됨
+}
