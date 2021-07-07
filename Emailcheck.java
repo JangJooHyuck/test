@@ -25,7 +25,7 @@ public class Emailcheck {
             System.out.println("입력하신 패스워드의 형식이 정상적이지 않습니다.");
             System.out.println("패스워드는 영어 또는 한글과 숫자로만 생성할 수 있습니다.(최소 1 ~ 20글자)");
             System.out.println("패스워드를 다시 입력해주세요."); // 사용자에게 재입력 요구
-            Pw = scan.nextLine(); // 다시 입력받음
+            Pw = scan.nextLine(); // 다시 입력받음.
         }
 
         String emailpattern = "[a-zA-Z0-9_.+-]+@[a-zA-Z]+\\.[a-zA-Z]+"; // 이메일 패턴 정의
